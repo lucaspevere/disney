@@ -1,2 +1,0 @@
-# disney
-DisneyApp for Alkmey
